@@ -1,0 +1,22 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "author": "Paul",
+  "description": "package that helps people",
+  "keywords": [
+    "freecodecamp",
+    "management"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+  },
+  "main": "server.js",
+  "version": "1.2.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
+}
